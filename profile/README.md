@@ -4,7 +4,7 @@ The sample projects included in these repositories offer a concise yet effective
 
 ## We Are Hiring!
 
-We are always looking for self-motivated, talented, and hard-working individuals who want to work in an exciting and fast-paced environment using the latest technology and products. If you fit the job description apply [**here**](https://www.nsoftware.com/company/jobs).
+We are always looking for self-motivated, talented, and hard-working individuals who want to work in an exciting and fast-paced environment using the latest technology and products. If you fit the job description please apply [here](https://www.nsoftware.com/company/jobs).
 
 ## Get in Touch with the Team
 Did you find a bug or hava a feature request? We want to [hear from you](https://www.nsoftware.com/support/submit)!
